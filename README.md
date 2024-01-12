@@ -17,6 +17,7 @@
 | ------------------------------------------------------------- | ------------------------------------ | -------- |
 | <a href="https://github.com/sakanaovo/variable-prompt">vscode变量提示插件</a>      | vscode变量提示插件 | 开源项目 |
 |  <a href="https://github.com/sakanaovo/private-kitchen">学习vitest的项目</a> | 通过TDD思想，测试驱动开发,monorepo架构,手写实现常用工具 |开源项目 |
+|  <a href="https://github.com/sakanaovo/mini-react-ts">mini-react</a> | 拆分实现 mini-react |开源项目 |
 
 <br />
 
