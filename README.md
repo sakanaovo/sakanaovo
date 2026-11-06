@@ -1,35 +1,69 @@
-## 我是sakana :fish:
+<p align="center">
+  <img src="./assets/da-fei-yu-banner.png" width="100%" alt="大肥鱼主题深海蓝横幅，蓝发鱼尾角色位于右侧" />
+</p>
 
-- :boy:  一名修bug工程师，目前主要还是做前端开发这一块
-- :bookmark_tabs: 作品：
-  + [jsontots在线工具](http://sakana-peng.gitee.io/jsontots/)
-- :open_book: 开源经历：
-  + [vue-devui](https://github.com/DevCloudFE/vue-devui)
-- 💬 微信：mtx1125l （备注来意）
-+ :package:  我的文章/博客
-  + [个人博客](https://sakana-peng.gitee.io/peng-blog/)
-  + [掘金](https://juejin.cn/user/1935603769810264/posts)
+<h1 align="center">你好，我是 sakana 🐟</h1>
 
+<p align="center">
+  一名修 bug 的前端工程师。<br />
+  做前端，也做帮助 AI 聚焦与保留项目上下文的 Skills。
+</p>
 
-<h2>我的作品🚩</h2>
+<p align="center">
+  <a href="https://github.com/sakanaovo/cgzskill">我的 Skills</a> ·
+  <a href="https://github.com/sakanaovo?tab=repositories">代码仓库</a> ·
+  <a href="https://juejin.cn/user/1935603769810264/posts">掘金文章</a> ·
+  <a href="#联系我">联系我</a>
+</p>
 
-| 项目名称                                                      | 简介                                 | 类型     |
-| ------------------------------------------------------------- | ------------------------------------ | -------- |
-| <a href="https://github.com/sakanaovo/variable-prompt">vscode变量提示插件</a>      | vscode变量提示插件 | 开源项目 |
-|  <a href="https://github.com/sakanaovo/private-kitchen">学习vitest的项目</a> | 通过TDD思想，测试驱动开发,monorepo架构,手写实现常用工具 |开源项目 |
-|  <a href="https://github.com/sakanaovo/mini-react-ts">mini-react</a> | 拆分实现 mini-react |开源项目 |
+## 01 / 我的 Skills
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/sakanaovo/cgzskill">cgzskill</a></h3>
+      <p><strong>让 AI 阅读和讨论更聚焦，让项目上下文有迹可循。</strong></p>
+      <p>面向支持 Agent Skills 的 AI 助手与编程工具，提供 5 个独立技能：初始化项目记忆、专注阅读、专注讨论、会话归档和每日复盘。记录保存在项目内可审查的 Markdown 文件中。</p>
+      <p><code>Agent Skills</code> <code>项目记忆</code> <code>协作与交接</code></p>
+      <p><a href="https://github.com/sakanaovo/cgzskill">查看仓库</a> · <a href="https://github.com/sakanaovo/cgzskill/blob/main/README.zh-CN.md">中文说明与安装</a></p>
+    </td>
+  </tr>
+</table>
+
+- **[初始化项目](https://github.com/sakanaovo/cgzskill/tree/main/skills/cgz-init)** · `cgz-init`  
+  补齐项目记忆目录、作者身份与文档语言偏好，保留已有内容。
+- **[专注阅读](https://github.com/sakanaovo/cgzskill/tree/main/skills/cgz-focused-reading)** · `cgz-focused-reading`  
+  围绕当前问题阅读文档、代码、PR 或日志，区分事实与未验证点。
+- **[专注讨论](https://github.com/sakanaovo/cgzskill/tree/main/skills/cgz-focused-discussion)** · `cgz-focused-discussion`  
+  聚焦正在讨论的议题，避免未经请求就扩展方案。
+- **[会话归档](https://github.com/sakanaovo/cgzskill/tree/main/skills/cgz-archive-session)** · `cgz-archive-session`  
+  保存有来源、范围和验证状态的独立记录，便于续聊与交接。
+- **[每日复盘](https://github.com/sakanaovo/cgzskill/tree/main/skills/cgz-daily-recap)** · `cgz-daily-recap`  
+  按日期汇总记录、按来源去重，保留尚待确认的冲突。
+
+<sub>仓库提供 Claude Code 与 Codex 的安装示例；其他宿主需要按各自规范适配，未逐一实测。</sub>
+
+## 02 / 开源经历
+
+### [Vue DevUI](https://github.com/DevCloudFE/vue-devui)
+
+参与 Vue 3 UI 组件库的开源贡献。已合并的改动：
+
+- **[弹窗按钮自动聚焦 · #1560](https://github.com/DevCloudFE/vue-devui/pull/1560)**：为弹窗按钮增加 `autofocus` 支持。
+- **[图片预览组件修复 · #1561](https://github.com/DevCloudFE/vue-devui/pull/1561)**：修复 ESLint 长行检查问题，并完善 TypeScript 类型。
+
+## 03 / 文章与记录
+
+我在 **[掘金](https://juejin.cn/user/1935603769810264/posts)** 记录前端开发、工具实践和学习心得。
+
+`前端开发` · `工具实践` · `手写实现` · `学习笔记`
+
+## 联系我
+
+欢迎交流前端开发、Skills 和开源实践。
+
+**微信：`mtx1125l`**（添加时请备注来意）
 
 <br />
 
-<a href="https://github.com/sakanaovo/sakanaovo">
-  <img
-      src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1935603769810264&theme=dark"
-      alt="sakana的掘金数据"
-      height="200px"
-    />
-</a>
-
-<br />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sakanaovo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakanaovo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-
+<p align="center"><sub>感谢你游到这里。🐟</sub></p>
