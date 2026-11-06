@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="sakana · 前端开发者，做工具，也做一些小实验" />
+  <img src="./assets/da-fei-yu-banner.png" width="100%" alt="大肥鱼主题深海蓝横幅，蓝发鱼尾角色位于右侧" />
 </p>
 
 <h1 align="center">你好，我是 sakana 🐟</h1>
