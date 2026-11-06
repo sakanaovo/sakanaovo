@@ -1,35 +1,61 @@
-## 我是sakana :fish:
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="sakana · 前端开发者，做工具，也做一些小实验" />
+</p>
 
-- :boy:  一名修bug工程师，目前主要还是做前端开发这一块
-- :bookmark_tabs: 作品：
-  + [jsontots在线工具](http://sakana-peng.gitee.io/jsontots/)
-- :open_book: 开源经历：
-  + [vue-devui](https://github.com/DevCloudFE/vue-devui)
-- 💬 微信：mtx1125l （备注来意）
-+ :package:  我的文章/博客
-  + [个人博客](https://sakana-peng.gitee.io/peng-blog/)
-  + [掘金](https://juejin.cn/user/1935603769810264/posts)
+<h1 align="center">你好，我是 sakana 🐟</h1>
 
+<p align="center">
+  一名修 bug 的前端工程师。<br />
+  做一些小工具，也通过手写实现和测试学习前端。
+</p>
 
-<h2>我的作品🚩</h2>
+<p align="center">
+  <a href="https://github.com/sakanaovo?tab=repositories">代码仓库</a> ·
+  <a href="https://juejin.cn/user/1935603769810264/posts">掘金文章</a> ·
+  <a href="#联系我">联系我</a>
+</p>
 
-| 项目名称                                                      | 简介                                 | 类型     |
-| ------------------------------------------------------------- | ------------------------------------ | -------- |
-| <a href="https://github.com/sakanaovo/variable-prompt">vscode变量提示插件</a>      | vscode变量提示插件 | 开源项目 |
-|  <a href="https://github.com/sakanaovo/private-kitchen">学习vitest的项目</a> | 通过TDD思想，测试驱动开发,monorepo架构,手写实现常用工具 |开源项目 |
-|  <a href="https://github.com/sakanaovo/mini-react-ts">mini-react</a> | 拆分实现 mini-react |开源项目 |
+## 01 / 作品与练习
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sakanaovo/variable-prompt">variable-prompt ↗</a></h3>
+      <p>VS Code CSS 变量提示插件。通过手动配置的映射，提供输入提示与悬停查看变量值的功能。</p>
+      <p><code>VS Code</code> <code>CSS</code> <code>开发工具</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sakanaovo/private-kitchen">private-kitchen ↗</a></h3>
+      <p>手写常用库与工具函数的学习记录。用 TDD 思路和 Vitest 测试，在 monorepo 中边写边学。</p>
+      <p><code>TypeScript</code> <code>Vitest</code> <code>TDD</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sakanaovo/mini-react-ts">mini-react-ts ↗</a></h3>
+      <p>用 TypeScript 拆分实现 mini-react，通过动手实践理解 React 的实现思路。</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DevCloudFE/vue-devui">Vue DevUI ↗</a></h3>
+      <p>参与 Vue 3 组件库的开源贡献，包括弹窗按钮自动聚焦，以及图片预览组件的修复。</p>
+      <p><a href="https://github.com/DevCloudFE/vue-devui/pull/1560">功能贡献 #1560</a> · <a href="https://github.com/DevCloudFE/vue-devui/pull/1561">修复 #1561</a></p>
+    </td>
+  </tr>
+</table>
+
+## 02 / 文章与记录
+
+我在 **[掘金](https://juejin.cn/user/1935603769810264/posts)** 记录前端开发、工具实践和学习心得。
+
+`前端开发` · `工具实践` · `手写实现` · `学习笔记`
+
+## 联系我
+
+欢迎交流前端开发、开源项目和学习心得。
+
+**微信：`mtx1125l`**（添加时请备注来意）
 
 <br />
 
-<a href="https://github.com/sakanaovo/sakanaovo">
-  <img
-      src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1935603769810264&theme=dark"
-      alt="sakana的掘金数据"
-      height="200px"
-    />
-</a>
-
-<br />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sakanaovo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakanaovo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-
+<p align="center"><sub>感谢你游到这里。🐟</sub></p>
