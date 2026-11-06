@@ -20,24 +20,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakanaovo/variable-prompt">variable-prompt ↗</a></h3>
+      <h3><a href="https://github.com/sakanaovo/variable-prompt">variable-prompt</a></h3>
       <p>VS Code CSS 变量提示插件。通过手动配置的映射，提供输入提示与悬停查看变量值的功能。</p>
       <p><code>VS Code</code> <code>CSS</code> <code>开发工具</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakanaovo/private-kitchen">private-kitchen ↗</a></h3>
+      <h3><a href="https://github.com/sakanaovo/private-kitchen">private-kitchen</a></h3>
       <p>手写常用库与工具函数的学习记录。用 TDD 思路和 Vitest 测试，在 monorepo 中边写边学。</p>
       <p><code>TypeScript</code> <code>Vitest</code> <code>TDD</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakanaovo/mini-react-ts">mini-react-ts ↗</a></h3>
+      <h3><a href="https://github.com/sakanaovo/mini-react-ts">mini-react-ts</a></h3>
       <p>用 TypeScript 拆分实现 mini-react，通过动手实践理解 React 的实现思路。</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DevCloudFE/vue-devui">Vue DevUI ↗</a></h3>
+      <h3><a href="https://github.com/DevCloudFE/vue-devui">Vue DevUI</a></h3>
       <p>参与 Vue 3 组件库的开源贡献，包括弹窗按钮自动聚焦，以及图片预览组件的修复。</p>
       <p><a href="https://github.com/DevCloudFE/vue-devui/pull/1560">功能贡献 #1560</a> · <a href="https://github.com/DevCloudFE/vue-devui/pull/1561">修复 #1561</a></p>
     </td>
